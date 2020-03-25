@@ -115,6 +115,8 @@ github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2/go.mod h1:UETIi67q
 github.com/xordataexchange/crypt v0.0.3-0.20170626215501-b2862e3d0a77/go.mod h1:aYKd//L2LvnjZzWKhF00oedf4jCCReLcmhLdhm1A27Q=
 github.com/ysfkel/bpaas v0.0.0-20200226175411-64f8f101201a h1:5YcbkPmCAhBQdZ65kMic0fFiWB8XX1ozx0wTkKXaW2k=
 github.com/ysfkel/bpaas v0.0.0-20200226175411-64f8f101201a/go.mod h1:pSrXCx1/Mw0PyhK8KTzj26v6geF9kVb1XAEacNAd1OA=
+github.com/ysfkel/kindsdk v0.0.0-20200325085154-879b9381e110 h1:Fyg7hTvrtMZN9xfabznUra2chx2cZc3Ev5xxCrOm/Lc=
+github.com/ysfkel/kindsdk v0.0.0-20200325085154-879b9381e110/go.mod h1:hoG+T/9OeVGOGMFdcNfOmItFlxzoAtyXWKTg/TaB4J0=
 github.com/ysfkel/kommanda v0.0.0-20200220211913-fdb01991d406/go.mod h1:sni/Cge7CYcSOf4wag98mxyDA4Ei0vMH8BLUQUr9eeY=
 go.etcd.io/bbolt v1.3.2/go.mod h1:IbVyRI1SCnLcuJnV2u8VeU0CEYM7e686BmAb1XKL+uU=
 go.uber.org/atomic v1.4.0/go.mod h1:gD2HeocX3+yG+ygLZcrzQJaqmWj9AIm7n08wl/qW/PE=

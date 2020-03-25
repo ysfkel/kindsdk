@@ -5,9 +5,9 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/ysfkel/kindsdk/config"
-	"github.com/ysfkel/kindsdk/filesystem"
-	k8s "github.com/ysfkel/kindsdk/kubernetes"
+	"github.com/ysfkel/kubernetes/config"
+	"github.com/ysfkel/kubernetes/filesystem"
+	k8s "github.com/ysfkel/kubernetes/provider"
 )
 
 type KubernetesService struct {
